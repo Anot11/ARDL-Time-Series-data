@@ -1,6 +1,6 @@
 # ARDL-Time-Series-data
 
-Time Series Analysis completed as part of my Econometrics program sing R studio.
+Time Series Analysis completed as part of my Econometrics program using R studio.
 
 1.	Time series plot of and stationarity test
 2.	Johansen’s cointegration test to the stacked vector
