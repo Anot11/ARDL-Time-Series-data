@@ -1,4 +1,4 @@
-# ARDL-Time-Series-data
+# VAR-Time-Series-data
 
 Time Series Analysis completed as part of my Econometrics program using RStudio.
 
